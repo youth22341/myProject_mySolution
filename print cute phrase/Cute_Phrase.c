@@ -5,7 +5,7 @@ void Cute_Phrase(int h){
 	for(i = 1; i <= h; i++){
 		for(j = 1; j <= (h+27)/2; j++){
 			if(i == 1){
-				if(j <= 3 || j == (h+13)/2 || j == (h+15/2) || j == (h+21/2) || j == (h+27)/2) printf("*");
+				if(j <= 3 || j == (h+13)/2 || j == (h+15)/2 || j == (h+21)/2 || j == (h+27)/2) printf("*");
 				else printf(" ");
 			}
 			if(i == 2 || i == h-1){
