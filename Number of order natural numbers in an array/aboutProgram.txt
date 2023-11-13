@@ -1,0 +1,9 @@
+This is one of my program that have more than 100 lines of code. I made it about 4 years ago. The problem I'm solving is:
+Given an array with natural number elements (it don't have to be differce). Find all blocks of numbers which is in order (ascend or descend) in that array.
+Example:
+  A[] = {1,5,2,8,9,10}
+In this array, the blocks which is desired are: (1,2), (8,9,10)
+The result for this example are 2 blocks.
+
+In my program, you can change the MIN and MAX values of elements.
+I'm pleasure to get any recommend from you guys.

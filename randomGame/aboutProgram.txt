@@ -1,0 +1,6 @@
+I made this game based on the origin game name "Guessing number". For those who don't know about that, in this game you have to guess the number which is lies on the range of [MIN,MAX]. Every time you say your guess, the host will let you know how your answer compare to the result (like: smaller than the result, bigger than the result).
+My first time playing this game is when I'm in grade 10. I have lost a lot because I took so many times to guess the number.
+My program can make you feel relax with the game when:
+   -You can type the range you want to guess: MIN,MAX
+   -You can choose beg mode: from the range you choose, program will calculate the maximum you need to guess. In this mode, you can choose a number of times you can guess (ofcouse it's smaller than the maximum times the program calculate).
+I also have video about this program on my Youtube chanel, welcome you to go there: https://youtu.be/MWP7l3wZs84

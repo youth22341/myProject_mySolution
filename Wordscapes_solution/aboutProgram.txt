@@ -1,0 +1,11 @@
+This prgram exist when me and my friend play Wordscapes game. To complete this game, you have to create many words from suggest characters.
+For example:
+   with character = "SAELF", you can have many meaning words with any length of word, such as: SALE,SAFE,LEAF,SEA,....
+It look like crossing word puzzle, then you can know what type of words are missing.
+When I play, it took me several times to try and error which words both meaning and have "type of missing"
+The game goes hard when the level is more higher, then there are more and more suggest characters.
+That why I code this program, which idea like pemutation algorithm.
+My first plan is the program can show all combinations - pemutations of words can be filled in. Then I will choose the meaning words from that. To do this, I think I should use some knowledge about struct, node to distinguish all elements. Furthermore, I also want to connect to any dictionaries (offline) to filter all nonsense words.
+But, sadly, I'm not success in that. My program is still not complete, my pemutation algorithm still have similar words, I do not have construction like struct, node,.. as I mentioned before.
+I have used it to play the gamme in my phone: split the screen into 2 parts and use compiler in my phone to solve my problem. It works in another way.
+I upload source code here and I'm very pleasure to get recommend from you to complete it. Thank you very much!

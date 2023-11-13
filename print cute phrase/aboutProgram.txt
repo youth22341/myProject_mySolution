@@ -1,0 +1,3 @@
+This program is one of my pride in printing words. It's starting when I'm in a group about C/C++ programming language. There are so many peoples and problems are asked everyday. One of them is this problem, someone ask how to print word "I <3 U" in C like Excel (the picture is in my pdf file).
+Well, it's not hard but fascinating me enough at the first sight. The result is in my pdf file name "Cute_Phrase". In that file I explain how I thought and solved the problem. I also fix it to be more cute.
+Hope you guys enjoy it!

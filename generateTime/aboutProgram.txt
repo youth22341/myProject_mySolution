@@ -1,0 +1,3 @@
+The idea comes when I want to send the email to my crush, I wrote but don't know when I should send it (we can arrange date and time to send email automatically). I just write a small program that random date (with the range of year is your choice) and time with type: hh:mm:ss
+It's just simple project and I also have it on my Youtube chanel following by the link: https://youtu.be/WrWJAKP8lOg
+Hope you guys enjoy my little code!
