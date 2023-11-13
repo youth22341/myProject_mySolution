@@ -5,5 +5,5 @@ Example:
 In this array, the blocks which is desired are: (1,2), (8,9,10)
 The result for this example are 2 blocks.
 
-In my program, you can change the MIN and MAX values of elements.
+In my program, you can change the MIN and MAX values of elements. For more details, my program using "windows.h" library, which only run on Windows platfrom. I use it to clear my screen and get color. Maybe you can know another way to do that.
 I'm pleasure to get any recommend from you guys.
