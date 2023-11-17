@@ -34,6 +34,6 @@ void Cute_Phrase(int h){
 }
 
 int main(){
-	Cute_Phrase(9);
+	Cute_Phrase(21);
 	return 0;
 }

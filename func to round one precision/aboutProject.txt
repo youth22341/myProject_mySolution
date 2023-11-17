@@ -1,0 +1,11 @@
+In C language programming, although we have some functions to get precision number like round, ceil, floor..But sometime we want the result is precise with any the number of number to compare to another number, such as:
+            5.4238 -> 5.4 (1 precision) / 5.42 (2 precision) / 5.424 (3 precision)
+Can we do that? Ofcourse we know that these functions I have mentioned (round, ceil, floor) can't get the result more than 1 precision. We only do that we use printf syntax:
+            float a = 5.4238;
+            printf("%.1f",a); -> 5.4 (1 precision)
+	    printf("%.2f",a); -> 5.42 (2 precision)
+            printf("%.3f",a); -> 5.424 (3 precision)
+We also know that, with float/double type, because of the way computer stores datas, it get big error when we compare two floating type. Such as:
+            0.2 + 0.1 == 0.3 return false instead of true in logic
+That's why I wrote this function to get precision from a number, but first it's only 1 precision (and I will expand it's to any precisions later).
+Hope you guys love that!
